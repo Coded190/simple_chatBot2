@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "Hello!",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "hi",
+      "answer": "Hello!"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hey!"
+    },
+    {
+      "question": "hey there",
+      "answer": "Hi!"
+    },
+    {
+      "question": "What's your name?",
+      "answer": "Chat Bot 2.0"
+    },
+    {
+      "question": "Who made you?",
+      "answer": "Christian created me!"
+    },
+    {
+      "question": "what is your purpose",
+      "answer": "I am a simple chat bot to respond to your queries!"
+    },
+    {
+      "question": "How do I exit this program?",
+      "answer": "Enter 'quit' to exit this program."
+    }
+  ]
+}
